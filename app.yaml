@@ -1,5 +1,3 @@
-
-
 #version: 1
 runtime: python27
 # threadsafe is required but can be either true or 
